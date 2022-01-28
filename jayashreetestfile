@@ -1,7 +1,11 @@
 this is a testfile to see if this gets downloaded in my project. 
+<<<<<<< HEAD
 
 I am goignt to update this file testing.
 new file. i will update end check 
 git fetch
 fetch again
 
+=======
+what is this file ?
+>>>>>>> 9daf773341708407bb9a70bd8891c70182eabdb4
